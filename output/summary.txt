@@ -1,0 +1,19 @@
+
+INDIAN HOUSEHOLD DATA ANALYSIS
+==============================
+
+Total Households : 40
+
+Average Monthly Income : ₹82,625.00
+
+Average Monthly Expense : ₹55,825.00
+
+Average Monthly Savings : ₹26,800.00
+
+Highest Income : ₹155,000.00
+
+Lowest Income : ₹56,000.00
+
+Highest Savings : ₹50,000.00
+
+Lowest Savings : ₹9,000.00

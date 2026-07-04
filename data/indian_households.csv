@@ -1,0 +1,41 @@
+Household_ID,State,City,Family_Size,Monthly_Income,Monthly_Expense,Own_House,Education
+HH001,Karnataka,Bengaluru,4,85000,52000,Yes,Graduate
+HH002,Telangana,Hyderabad,5,72000,49000,No,Post Graduate
+HH003,Tamil Nadu,Chennai,3,68000,42000,Yes,Graduate
+HH004,Maharashtra,Mumbai,6,145000,98000,No,Post Graduate
+HH005,Kerala,Kochi,4,76000,50000,Yes,Graduate
+HH006,Gujarat,Ahmedabad,5,90000,61000,Yes,Graduate
+HH007,Delhi,New Delhi,3,120000,80000,No,Doctorate
+HH008,Punjab,Ludhiana,6,83000,59000,Yes,High School
+HH009,Rajasthan,Jaipur,5,67000,43000,Yes,Diploma
+HH010,West Bengal,Kolkata,4,70000,48000,No,Graduate
+HH011,Karnataka,Mysuru,4,62000,39000,Yes,Graduate
+HH012,Telangana,Warangal,5,58000,41000,No,High School
+HH013,Tamil Nadu,Coimbatore,4,81000,54000,Yes,Post Graduate
+HH014,Maharashtra,Pune,3,98000,64000,Yes,Graduate
+HH015,Kerala,Thiruvananthapuram,5,73000,47000,Yes,Graduate
+HH016,Gujarat,Surat,4,87000,60000,No,Diploma
+HH017,Delhi,New Delhi,2,135000,92000,Yes,Doctorate
+HH018,Punjab,Amritsar,6,64000,45000,No,High School
+HH019,Rajasthan,Jodhpur,5,61000,39000,Yes,Graduate
+HH020,West Bengal,Durgapur,4,56000,36000,No,Graduate
+HH021,Karnataka,Hubballi,5,78000,52000,Yes,Post Graduate
+HH022,Telangana,Hyderabad,4,95000,68000,Yes,Graduate
+HH023,Tamil Nadu,Madurai,6,59000,41000,No,Diploma
+HH024,Maharashtra,Nagpur,4,69000,47000,Yes,Graduate
+HH025,Kerala,Kozhikode,3,71000,46000,Yes,
+HH026,Gujarat,Rajkot,5,83000,55000,No,Graduate
+HH027,Delhi,New Delhi,4,,65000,Yes,Post Graduate
+HH028,Punjab,Jalandhar,6,66000,47000,Yes,High School
+HH029,Rajasthan,Udaipur,4,74000,,No,Graduate
+HH030,West Bengal,Howrah,5,63000,42000,Yes,Graduate
+HH031,Karnataka,Bengaluru,3,112000,76000,No,Doctorate
+HH032,Telangana,Nizamabad,4,61000,39000,Yes,Diploma
+HH033,Tamil Nadu,Salem,5,67000,45000,Yes,Graduate
+HH034,Maharashtra,Mumbai,4,155000,105000,Yes,Post Graduate
+HH035,Kerala,Kochi,6,82000,56000,No,Graduate
+HH036,Gujarat,Ahmedabad,4,94000,62000,Yes,Graduate
+HH037,Delhi,New Delhi,3,128000,86000,Yes,Doctorate
+HH038,Punjab,Ludhiana,5,79000,54000,Yes,Graduate
+HH039,Rajasthan,Jaipur,4,72000,49000,No,Graduate
+HH040,Rajasthan,Jaipur,4,72000,49000,No,Graduate

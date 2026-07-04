@@ -1,0 +1,41 @@
+Household_ID,State,City,Family_Size,Monthly_Income,Monthly_Expense,Own_House,Education,Savings
+HH001,Karnataka,Bengaluru,4,85000.0,52000.0,Yes,Graduate,33000.0
+HH002,Telangana,Hyderabad,5,72000.0,49000.0,No,Post Graduate,23000.0
+HH003,Tamil Nadu,Chennai,3,68000.0,42000.0,Yes,Graduate,26000.0
+HH004,Maharashtra,Mumbai,6,145000.0,98000.0,No,Post Graduate,47000.0
+HH005,Kerala,Kochi,4,76000.0,50000.0,Yes,Graduate,26000.0
+HH006,Gujarat,Ahmedabad,5,90000.0,61000.0,Yes,Graduate,29000.0
+HH007,Delhi,New Delhi,3,120000.0,80000.0,No,Doctorate,40000.0
+HH008,Punjab,Ludhiana,6,83000.0,59000.0,Yes,High School,24000.0
+HH009,Rajasthan,Jaipur,5,67000.0,43000.0,Yes,Diploma,24000.0
+HH010,West Bengal,Kolkata,4,70000.0,48000.0,No,Graduate,22000.0
+HH011,Karnataka,Mysuru,4,62000.0,39000.0,Yes,Graduate,23000.0
+HH012,Telangana,Warangal,5,58000.0,41000.0,No,High School,17000.0
+HH013,Tamil Nadu,Coimbatore,4,81000.0,54000.0,Yes,Post Graduate,27000.0
+HH014,Maharashtra,Pune,3,98000.0,64000.0,Yes,Graduate,34000.0
+HH015,Kerala,Thiruvananthapuram,5,73000.0,47000.0,Yes,Graduate,26000.0
+HH016,Gujarat,Surat,4,87000.0,60000.0,No,Diploma,27000.0
+HH017,Delhi,New Delhi,2,135000.0,92000.0,Yes,Doctorate,43000.0
+HH018,Punjab,Amritsar,6,64000.0,45000.0,No,High School,19000.0
+HH019,Rajasthan,Jodhpur,5,61000.0,39000.0,Yes,Graduate,22000.0
+HH020,West Bengal,Durgapur,4,56000.0,36000.0,No,Graduate,20000.0
+HH021,Karnataka,Hubballi,5,78000.0,52000.0,Yes,Post Graduate,26000.0
+HH022,Telangana,Hyderabad,4,95000.0,68000.0,Yes,Graduate,27000.0
+HH023,Tamil Nadu,Madurai,6,59000.0,41000.0,No,Diploma,18000.0
+HH024,Maharashtra,Nagpur,4,69000.0,47000.0,Yes,Graduate,22000.0
+HH025,Kerala,Kozhikode,3,71000.0,46000.0,Yes,Unknown,25000.0
+HH026,Gujarat,Rajkot,5,83000.0,55000.0,No,Graduate,28000.0
+HH027,Delhi,New Delhi,4,74000.0,65000.0,Yes,Post Graduate,9000.0
+HH028,Punjab,Jalandhar,6,66000.0,47000.0,Yes,High School,19000.0
+HH029,Rajasthan,Udaipur,4,74000.0,50000.0,No,Graduate,24000.0
+HH030,West Bengal,Howrah,5,63000.0,42000.0,Yes,Graduate,21000.0
+HH031,Karnataka,Bengaluru,3,112000.0,76000.0,No,Doctorate,36000.0
+HH032,Telangana,Nizamabad,4,61000.0,39000.0,Yes,Diploma,22000.0
+HH033,Tamil Nadu,Salem,5,67000.0,45000.0,Yes,Graduate,22000.0
+HH034,Maharashtra,Mumbai,4,155000.0,105000.0,Yes,Post Graduate,50000.0
+HH035,Kerala,Kochi,6,82000.0,56000.0,No,Graduate,26000.0
+HH036,Gujarat,Ahmedabad,4,94000.0,62000.0,Yes,Graduate,32000.0
+HH037,Delhi,New Delhi,3,128000.0,86000.0,Yes,Doctorate,42000.0
+HH038,Punjab,Ludhiana,5,79000.0,54000.0,Yes,Graduate,25000.0
+HH039,Rajasthan,Jaipur,4,72000.0,49000.0,No,Graduate,23000.0
+HH040,Rajasthan,Jaipur,4,72000.0,49000.0,No,Graduate,23000.0
